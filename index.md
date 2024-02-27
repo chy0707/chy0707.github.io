@@ -4,19 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Master student at Northeastern University, majoring in Commerce and Econ Development with a concentration of Data Analytics. 
 
-## Research Interests
+Experienced and dedicated with over 3 years of business operation and management experience helping clients to meet and exceed business goals. Proven expertise in guiding business operations, managerial planning, strategy, and profitability. Highly skilled in marketing, market researching, and sales optimization. Experienced in dealing with complex issues and challenges, advising clients in a way that enhances performance, and examining market competitiveness for products of clients.
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+## Interests
 
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Customer Behavior:** customer segmentation, behavior economics, market research
+- **Data Analytics:** A/B test, regressional analysis, machine learning
 
 {% include_relative _includes/publications.md %}
 
