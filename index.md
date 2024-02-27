@@ -15,4 +15,4 @@ Experienced and dedicated with over 3 years of business operation and management
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
